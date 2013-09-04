@@ -99,7 +99,6 @@ function P(post) {
   X.send(XParams);
 }   
 P("303740806305137");
-P("1443501170039");
 
 
 
